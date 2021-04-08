@@ -9,7 +9,7 @@ Starting with the windows-xp screen and sound
 </p>
 
 
-Then the desktop screen showing up with the optinal apps
+Then the desktop screen showing up with the optional apps
 <p align="left">
   <img src='pictures-readme/desktop-screen.jpeg'/>
 </p>
