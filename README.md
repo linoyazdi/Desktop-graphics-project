@@ -4,18 +4,33 @@ My high-school project in Assembly (2020)
 
 
 Starting with the windows-xp screen and sound
-![Windows](https://github.com/linoyazdi/Desktop-graphics-project/blob/master/pictures-readme/windows-xp.jpeg?raw=true)
+<p align="left">
+  <img src='pictures-readme/windows-xp.jpeg'/>
+</p>
 
-Then the desktop screen showing up with the optinal apps
-![Desktop](https://github.com/linoyazdi/Desktop-graphics-project/blob/master/pictures-readme/desktop-screen.jpeg?raw=true)
+
+Then the desktop screen showing up with the optional apps
+<p align="left">
+  <img src='pictures-readme/desktop-screen.jpeg'/>
+</p>
+
 
 Google chrome
-![Google](https://github.com/linoyazdi/Desktop-graphics-project/blob/master/pictures-readme/google-screen.jpeg?raw=true)
+<p align="left">
+  <img src='pictures-readme/google-screen.jpeg'/>
+</p>
+
 
 File explorer (When clicked there is a sequence of images)
-![Spongebob](https://github.com/linoyazdi/Desktop-graphics-project/blob/master/pictures-readme/spongebob.jpeg?raw=true)
+<p align="left">
+  <img src='pictures-readme/spongebob.jpeg'/>
+</p>
+
 
 Youtube (shows this image and part of the song)
-![Desktop](https://github.com/linoyazdi/Desktop-graphics-project/blob/master/pictures-readme/desktop-screen.jpeg?raw=true)
+<p align="left">
+  <img src='pictures-readme/youtube-song.jpeg'/>
+</p>
+
 
 To exit - press the windows logo on the left
